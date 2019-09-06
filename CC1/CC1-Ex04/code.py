@@ -1,6 +1,5 @@
-# DO NOT TOUCH ============================================
 cash = 72389221.45
-# DO NOT TOUCH ============================================
+split = 7
+print(cash/split)
 
-#Write your code below:
 
