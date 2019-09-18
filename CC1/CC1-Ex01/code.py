@@ -1,3 +1,4 @@
-x = 4 # Your Code here
-print(x * 2)
-
+fruit = 'apple'
+pos = fruit.find('he')
+print(pos)
+print(f"{fruit}")
