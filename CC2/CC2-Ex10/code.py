@@ -14,3 +14,4 @@ try:
         print('F')
 except:
     print('Please enter numeric input')
+    quit()

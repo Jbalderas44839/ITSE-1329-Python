@@ -7,4 +7,5 @@ try:
     else:
         print('Pay:' , float(hours) * float(rate))
 except:
-    print('Error, please enter numeric value ')
+       print('Error, please enter numeric value ')
+       quit()
