@@ -1,4 +1,3 @@
-#Define your greet function below
-
-
-#Then, call greet once:
+def greet():
+    print('Howdy')
+greet()

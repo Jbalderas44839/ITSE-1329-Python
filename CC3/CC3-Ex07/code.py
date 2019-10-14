@@ -1,2 +1,3 @@
 def my_first_function(fname, lname):
-    return ______________  # Fill in the blank
+    x = 'The first value is ' + fname + ' and the second value is ' + lname
+    return x
