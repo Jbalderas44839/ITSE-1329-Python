@@ -1,2 +1,5 @@
-#   open alice.txt, count the lines, and
-#   print out number of lines
+file = open('alice.txt', 'r')
+count = 0
+for line in file:
+    count += 1
+print('Line count # ' ,count)

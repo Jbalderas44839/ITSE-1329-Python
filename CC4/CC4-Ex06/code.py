@@ -1,3 +1,5 @@
-#   open mbox-short.txt, print lines that startwith
-#   From: and print out result with right-hand whitespace
-#   removed
+file = open('mbox-short.txt')
+for line in file:
+    line = line.rstrip()
+    if line.startswith("From:"):
+        print(line)
