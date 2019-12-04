@@ -1,5 +1,6 @@
 pet_info = {
-    'name': '_____',
-    'age': _____,
-    'gender': '_____'
+    'name': 'Juan',
+    'age': 21,
+    'gender': 'Male'
 }
+print(pet_info)
